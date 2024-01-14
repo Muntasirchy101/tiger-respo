@@ -13,6 +13,7 @@ h1 {
 }
 
 .row div {
+    flex-basis: 0;
     flex-grow: 1;
 }
 .img-2 img{
